@@ -1,0 +1,24 @@
+{
+  "name": "my-webapp",
+  "version": "1.0.0",
+  "description": "list of names phones and address",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-nice/my-webapp.git"
+  },
+  "keywords": [
+    "name",
+    "phone",
+    "address"
+  ],
+  "author": "wail gafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-nice/my-webapp/issues"
+  },
+  "homepage": "https://github.com/not-nice/my-webapp#readme"
+}
