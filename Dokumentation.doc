@@ -1,0 +1,46 @@
+Dokumentation: AWS-Webanwendung mit Terraform
+
+Projektbeschreibung:
+
+In diesem Projekt wurde eine benutzerfreundliche Webanwendung entwickelt, die es ermöglicht, Informationen wie Name, Telefonnummer und Adresse einzugeben. Das Projekt wurde als Einzelprojekt realisiert und die Umsetzung erfolgte eigenständig.
+
+Die Anwendung wurde unter Verwendung von JavaScript entwickelt und setzt auf Maven als Build-Tool. Die AWS-Ressourcen, darunter RDS, EC2, Internet Gateway, VPC und Subnets, wurden mittels Terraform als Infrastructure-as-Code (IaC) bereitgestellt.
+
+Projektanforderungen:
+
+    Teamgröße:
+    Die Entwicklung des Projekts erfolgte allein.
+
+    Verwendung von AWS-Diensten:
+    Das Projekt nutzt eine Vielzahl von AWS-Diensten, darunter RDS, EC2, Internet Gateway, VPC und Subnets.
+
+    Eigener VPC:
+    Ein individuelles Virtual Private Cloud (VPC) wurde geschaffen, inklusive öffentlicher und privater Subnetze.
+
+    IPv6-Ready:
+    Die Implementierung von IPv6-Unterstützung ist optional und wurde in diesem Projekt nicht umgesetzt.
+
+    Installation mit Terraform:
+    Die AWS-Ressourcen wurden durch Terraform-Skripte bereitgestellt. Die detaillierte Konfiguration ist im GitHub-Repository verfügbar.
+
+    Build-Tool:
+    Maven wurde als Build-Tool für die Strukturierung und den Zusammenbau des Projekts verwendet.
+
+    Testphasen:
+    Zwei Testphasen wurden implementiert, jeweils mit mindestens einem Beispieltest.
+
+    CI/CD-Pipelines:
+    Durch die Einrichtung von CI/CD-Pipelines wird eine effiziente Bereitstellung und Aktualisierung der Anwendung gewährleistet. Die Konfiguration ist im GitHub-Repository verfügbar.
+
+    Statische Code-Analyse und Security Scanning:
+    GitHub und SonarCloud wurden für die statische Code-Analyse und Security Scanning eingesetzt, um die Qualität und Sicherheit des Codes zu gewährleisten.
+
+    Dokumentation:
+    Diese Dokumentation gibt einen Überblick über das Projekt, einschließlich verwendeter Technologien und Implementierungsdetails. Weitere Informationen sind im GitHub-Repository verfügbar.
+
+    Recycling von Anwendungen oder Projekten:
+    Das Projekt wurde von Grund auf neu entwickelt, ohne auf vorherige Semesterprojekte zurückzugreifen.
+
+Zusammenfassung:
+
+Die erfolgreiche Umsetzung der Webanwendung als Einzelprojekt erfüllt alle gestellten Anforderungen. Die Nutzung von AWS-Diensten, Terraform als IaC-Werkzeug, Maven als Build-Tool und die Implementierung von CI/CD-Pipelines betonen die Modernität und Effizienz des Projekts. Detaillierte Informationen und der Quellcode sind im GitHub-Repository verfügbar.
