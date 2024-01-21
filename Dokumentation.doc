@@ -12,7 +12,7 @@ Projektanforderungen:
     Die Entwicklung des Projekts erfolgte allein.
 
     Verwendung von AWS-Diensten:
-    Das Projekt nutzt eine Vielzahl von AWS-Diensten, darunter RDS, EC2, Internet Gateway, VPC und Subnets.
+    Das Projekt nutzt eine Vielzahl von AWS-Diensten, darunter RDS, EC2, Internet Gateway,S3 bucket, VPC und Subnets.
 
     Eigener VPC:
     Ein individuelles Virtual Private Cloud (VPC) wurde geschaffen, inklusive öffentlicher und privater Subnetze.
