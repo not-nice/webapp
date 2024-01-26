@@ -18,6 +18,7 @@ AWS Resources:
 The application utilizes various AWS services, including:
 
     Amazon RDS: For database management.
+    Amazon S3 bucket:Storage and Backup:
     Amazon EC2: For scalable computing capacity.
     Internet Gateway: Providing internet connectivity.
     Virtual Private Cloud (VPC): Ensuring a secure network environment.
