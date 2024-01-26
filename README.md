@@ -1,4 +1,4 @@
-Certainly! Here's a sample README file for your program:
+
 WebApp: User Information Input
 Overview:
 
@@ -10,7 +10,8 @@ Technologies Used:
     Infrastructure as Code (IaC): Terraform
     Version Control: Git
     Continuous Integration/Continuous Deployment (CI/CD): GitHub Actions
-    Code Analysis and Security Scanning: SonarCloud
+    Code Analysis and Security Scanning: Github
+
 
 AWS Resources:
 
